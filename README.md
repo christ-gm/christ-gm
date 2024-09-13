@@ -14,7 +14,7 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 
 ### Programing Languages
 
-<a href="https://www.python.org/" target='_blank'>
+<a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
 </a>
 
