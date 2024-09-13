@@ -14,97 +14,78 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 
 ### Programing Languages
 
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-</a>
+<a href="https://www.python.org/" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=python" width="50" alt="python"/></a>
 
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=cpp" />
+<a href="" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=js" width="50" alt="js"/></a>
+<a href="" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="cpp"/></a>
 <a href="https://kotlinlang.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=kotlin"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="kotlin"/></a>
 
 ### Database
 
 <a href="https://www.mysql.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="mysql"/></a>
 
 ### Tools
 
 <a href="https://git-scm.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=git"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=git" width="50" alt="git"/></a>
 <a href="https://github.com/christ-gm" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=github"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="github"/></a>
 <a href="https://www.markdownguide.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=markdown"/>
-</a>
-<a href="https://www.markdownguide.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=tensorflow"/>
-</a>
-<a href="https://www.markdownguide.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=sklearn"/>
+    <img src="https://skillicons.dev/icons?i=markdown" width="50" alt="markdown"/></a>
+<a href="https://www.tensorflow.org/" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="tensorflow"/></a>
+<a href="https://scikit-learn.org/stable/" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="sklearn"/>
 </a>
 
 ### IDEs
 
 <a href="https://code.visualstudio.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="vscode"/></a>
 <a href="https://developer.android.com/studio?hl=es-419" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=androidstudio"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="androidstudio"/></a>
 
 <a href="https://neovim.io/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=neovim"/>
-</a>
-<a href="https://git-scm.com/" target='_blank'>
-    <img src="icons/jp.png" width=40px/>
-</a>
+    <img src="https://skillicons.dev/icons?i=neovim" width="50" alt="neovim"/></a>
+<a href="https://jupyter.org/" target='_blank'>
+    <img src="icons/jp.png" width="40" width="50" alt="jupyter"/></a>
 
 ### Operative Systems
 
 <a href="https://www.microsoft.com/en-us/windows/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=windows"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=windows" width="50" alt="windows"/></a>
 
 <a href="https://www.linux.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=linux"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=linux" width="50" alt="linux"/></a>
 
 <a href="https://ubuntu.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=ubuntu"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="50" alt="ubuntu"/></a>
 
 <a href="https://www.kali.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=kali"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=kali" width="50" alt="kali"/></a>
 
 <a href="https://linuxmint.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=mint"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=mint" width="50" alt="linuxmint"/></a>
 
 <a href="https://archlinux.org/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=arch"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=arch" width="50" alt="arch"/></a>
 <br>
 
 ## <picture><img src = "https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" width = 30px height></picture> Me around the web
 
 <a href="https://www.linkedin.com/in/christian-garrido-215a9b28b/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"width="50"></a></a>
 <a href="https://www.instagram.com/ublyudok.exe/?next=%2F" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="instagram"/></a>
 <a href="mailto:c.garridomenesesmatias@gmail.com" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="instagram"/></a>
 <a href="https://Discordapp.com/users/368594637595869185" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=discord" width="50" alt="discord"/></a>
 
 <!--
 **christ-gm/christ-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
