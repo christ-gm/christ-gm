@@ -8,13 +8,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px height></picture> About Me
 
-<hr>
-
 My name is Christian. I'm a final-year student of Computer Science Engineering, with a solid foundation in data science, machine learning and data mining. I'm passionate about cybersecurity and constantly learning more about the field. Currently, I'm learning mobile development with Kotlin. In my daily life, I primarily use Linux, although I still use Windows for some games. My goal is to get all my games running on Linux.
 
 ## 🛠️ My Skills
-
-<hr>
 
 ### Programing Languages
 
@@ -97,7 +93,6 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 
 ## <picture><img src = "https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" width = 30px height></picture> Me around the web
 
-<hr>
 <a href="https://www.linkedin.com/in/christian-garrido-215a9b28b/" target='_blank'>
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
