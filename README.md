@@ -80,7 +80,7 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 
 <a href="https://www.linkedin.com/in/christian-garrido-215a9b28b/" target='_blank'>
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"width="50"></a></a>
-<a href="https://www.instagram.com/ublyudok.exe/?next=%2F" target='_blank'>
+<a href="https://www.instagram.com/christ.gm?igsh=dTNodjF0bnoxbWMw" target='_blank'>
     <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="instagram"/></a>
 <a href="mailto:c.garridomenesesmatias@gmail.com" target='_blank'>
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="instagram"/></a>
