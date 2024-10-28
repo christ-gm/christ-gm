@@ -42,6 +42,9 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 <a href="https://scikit-learn.org/stable/" target='_blank'>
     <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="sklearn"/>
 </a>
+<a href="https://www.docker.com/" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="docker"/>
+</a>
 
 ### IDEs
 
