@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=32&duration=1500&pause=1000&color=7BD732&background=2D092200&center=true&multiline=true&width=820&height=120&lines=Hi%2C+I'm+Chris.+Welcome+to+my+profile.;Hola%2C+Soy+Chris.+Bienvenidos+a+mi+perfil.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%AF%E3%83%AA%E3%82%B9%E3%81%A7%E3%81%99%E3%80%82%E5%83%95%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82)](https://git.io/typing-svg)
 
-<div align="center">
-  <img  height="180px" alt="GIF" src="https://media1.tenor.com/m/zFSHyX3JazQAAAAd/speedrunning.gif"/>
-</div>
-
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px height></picture> About Me
@@ -40,11 +36,9 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
 <a href="https://www.tensorflow.org/" target='_blank'>
     <img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="tensorflow"/></a>
 <a href="https://scikit-learn.org/stable/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="sklearn"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="sklearn"/></a>
 <a href="https://www.docker.com/" target='_blank'>
-    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="docker"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=docker" width="50" alt="docker"/></a>
 
 ### IDEs
 
