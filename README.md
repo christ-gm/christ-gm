@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px height></picture> About Me
 
-My name is Christian. I'm a final-year student of Computer Science Engineering, with a solid foundation in data science, machine learning and data mining. I'm passionate about cybersecurity and constantly learning more about the field. Currently, I'm learning mobile development with Kotlin. In my daily life, I primarily use Linux, although I still use Windows for some games. My goal is to get all my games running on Linux.
+My name is Christian. I'm Computer Science Engineer, with a solid foundation in data science, machine learning and data mining. I'm passionate about cybersecurity and constantly learning more about the field. Currently. In my daily life, I primarily use Linux, although I still use Windows for some games. My goal is to get all my games running on Linux.
 
 ## 🛠️ My Skills
 
@@ -83,18 +83,3 @@ My name is Christian. I'm a final-year student of Computer Science Engineering, 
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="instagram"/></a>
 <a href="https://Discordapp.com/users/368594637595869185" target='_blank'>
     <img src="https://skillicons.dev/icons?i=discord" width="50" alt="discord"/></a>
-
-<!--
-**christ-gm/christ-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
